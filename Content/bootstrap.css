@@ -860,6 +860,9 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+    top: 23px;
+    left: 5px;
+    height: 112px;
 }
 
 .col-xs-1,
@@ -2337,7 +2340,8 @@ fieldset[disabled] .btn-link:focus {
   font-size: 18px;
   line-height: 1.33;
   border-radius: 6px;
-    width: 151px;
+    width: 117px;
+    height: 19px;
 }
 
 .btn-sm,
